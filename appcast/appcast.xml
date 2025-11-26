@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ShotIt Updates</title>
-        <description>Auto-updates for ShotIt</description>
-        <language>en</language>
-        <!-- Releases will be added here by release script -->
+        <title>ShotIt</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 26 Nov 2025 22:46:36 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hai199580/ShotIt-pub/releases/download/ShotIt-1.0.0.zip" length="11165202" type="application/octet-stream" sparkle:edSignature="Gr8bvsWTcyhisCNQvo6zL82fmzave/GMCOak7+efo4+SpzVfIGXTAuXZRK+HpQbp0Rl+8wEuAJWn9ffrLiE8BQ=="/>
+        </item>
     </channel>
 </rss>
