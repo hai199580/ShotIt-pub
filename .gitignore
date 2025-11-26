@@ -1,0 +1,9 @@
+# Ignore release binaries (too large)
+appcast/releases/*.zip
+appcast/releases/*.dmg
+
+# Commit appcast.xml (public feed)
+!appcast/appcast.xml
+
+# macOS
+.DS_Store
