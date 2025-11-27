@@ -3,12 +3,12 @@
     <channel>
         <title>ShotIt</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Thu, 27 Nov 2025 09:19:52 +0700</pubDate>
+            <title>1.0.0</title>
+            <pubDate>Thu, 27 Nov 2025 11:21:53 +0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hai199580/ShotIt-pub/releases/download/ShotIt-1.0.0.zip" length="11133919" type="application/octet-stream"/>
+            <enclosure url="https://github.com/hai199580/ShotIt-pub/releases/download/ShotIt-1.0.0.zip" length="11133645" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
